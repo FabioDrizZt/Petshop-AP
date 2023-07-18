@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    font-family: Roboto;
+}
+
+/* seccion top */
+#top *{
+    background: #222;
+    color: #F3F3F3;
+    font-size: 0.625rem;
+    border-color: transparent  ;
+}
+/* seccion encabezado */
+#encabezado {
+    background: #F0A83E;
+}
+
+#encabezado span{
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+.marron{
+    color: #3C2313 !important;
+}
+.blanco{
+    color: #FFF !important;
+}
+.naranja{
+    color: #F0A83E !important;
+}
+
+#encabezado ul *{
+    list-style-type: none;
+    color: #FFF;
+    font-size: 0.8125rem;
+    text-decoration: none;
+}
+/* seccion banner */
+#banner{
+    background-size: cover;
+    height: 25.5625rem;
+    background-image: url('./img/bowl-and-pet-daities-on-green-background-1.svg')
+}
+#banner .contenedor-titulo{
+    border-radius: 5px;
+    background: #FFF;
+    width: 22.8125rem;
+    height: 3.375rem;
+}
+#banner h2{
+    color: #3C2313;
+    text-align: center;
+    font-size: 1.875rem;
+}
+#banner p{
+    color: #3C2313;
+    text-align: center;
+}
+#banner button{
+    border-radius: 5px;
+    background: #F0A83E;
+    color: #FFF;
+    text-align: center;
+    width: 8.8125rem;
+    height: 3.0625rem;
+    border-color: transparent;
+}
+/* seccion productos destacados */
+#productos-destacados i{
+    font-size: 4.1875rem;
+    color: #F0A83E;
+}
+#productos-destacados *{
+    text-align: center;
+}
+#productos-destacados p{
+    color: #666;
+    font-size: 0.9375rem;
+}
+/* seccion formulario */
+
+/* seccion suscripción */
+
+/* seccion contacto */
+
+/* seccion derechos */
